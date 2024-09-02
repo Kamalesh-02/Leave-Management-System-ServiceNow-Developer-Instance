@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>taken</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-28 05:39:38</sys_created_on>
+        <sys_id>95d76cad83d01610c404a730ceaad36c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>taken</sys_name>
+        <sys_package display_value="Leave Management System" source="x_1514214_lms">4bb0ad2483505e90c404a730ceaad3a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">4bb0ad2483505e90c404a730ceaad3a0</sys_scope>
+        <sys_update_name>sys_ui_policy_action_95d76cad83d01610c404a730ceaad36c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-28 05:39:38</sys_updated_on>
+        <table>x_1514214_lms_leave_request</table>
+        <ui_policy display_value="Make field Mandatory">a1c6646d83d01610c404a730ceaad33d</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=95d76cad83d01610c404a730ceaad36c"/>
+</record_update>
